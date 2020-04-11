@@ -1,6 +1,6 @@
 # TimeAlchemyPython
-
-* All files in resources/ are exported csv sheets from https://docs.google.com/spreadsheets/d/1K45DKKM0EhGo92Um5o6QC1cxqwMBNTz55TBEEAn5W5U/edit?usp=sharing
+* Some starting scripts for Kastia Maplestory Private Server's custom crafting system, Time Alchemy - https://kastia.ms
+* All files in `resources/` are exported csv sheets from https://docs.google.com/spreadsheets/d/1K45DKKM0EhGo92Um5o6QC1cxqwMBNTz55TBEEAn5W5U/edit?usp=sharing
 * Enter your desired items in `items` and inventory in `inventory_dict` in `main.py`, and run it.
 
 ## Example:
