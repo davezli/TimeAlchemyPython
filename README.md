@@ -61,4 +61,3 @@ Total Cost: 829322650
 ## To-Do:
 * Test it. I have no idea if this actually works
 * We can develop a tree and dynamically update costs in Python instead of doing it in Excel, but I'm lazy.
->>>>>>> Initial commit
